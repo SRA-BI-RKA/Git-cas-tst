@@ -1,0 +1,483 @@
+Code article	Article	Code catégorie article	Prix de base	Stat 1	Stat 2	Stat 3	Stat 4	Stat 5
+BMS014	Jante rayons 26" route	BMSOL	18.0000000000000	Cycle	Pièces détachées	Roues		
+BMS013	Jante rayons 20" route	BMSOL	13.8100000000000	Cycle	Pièces détachées	Roues		
+BMS015	Jante rayons 20" VTT	BMSOL	16.9500000000000	Cycle	Pièces détachées	Roues		
+BMS016	Jante rayons 26" VTT	BMSOL	21.6000000000000	Cycle	Pièces détachées	Roues		
+BMS017	Jante alu 20" route	BMSOL	31.5700000000000	Cycle	Pièces détachées	Roues		
+BMS018	Jante alu 26" route	BMSOL	40.4300000000000	Cycle	Pièces détachées	Roues		
+BMS019	Jante alu 20" VTT	BMSOL	34.9900000000000	Cycle	Pièces détachées	Roues		
+BMS020	Jante alu 26" VTT	BMSOL	44.2400000000000	Cycle	Pièces détachées	Roues		
+BMS021	Chambre à air 20" route	BMSOL	4.6200000000000	Cycle	Pièces détachées	Roues		
+BMS022	Chambre à air 20" VTT	BMSOL	4.9000000000000	Cycle	Pièces détachées	Roues		
+BMS023	Chambre à air 26" route	BMSOL	5.0000000000000	Cycle	Pièces détachées	Roues		
+BMS027	Pneu 26" route	BMSOL	36.5000000000000	Cycle	Pièces détachées	Roues		
+BMS025	Pneu 20" route	BMSOL	9.1600000000000	Cycle	Pièces détachées	Roues		
+BMS028	Pneu 26" VTT	BMSOL	28.2700000000000	Cycle	Pièces détachées	Roues		
+BMS029	Guidon vélo enfant route	BMSOL	17.2000000000000	Cycle	Pièces détachées	Guidons		
+BMS030	Guidon vélo enfant VTT	BMSOL	23.7900000000000	Cycle	Pièces détachées	Guidons		
+BMS031	Guidon vélo adulte route	BMSOL	23.0000000000000	Cycle	Pièces détachées	Guidons		
+BMS032	Guidon vélo adulte VTT	BMSOL	31.1700000000000	Cycle	Pièces détachées	Guidons		
+BMS033	Transmission vélo enfant route	BMSOL	25.4000000000000	Cycle	Pièces détachées	Transmissions		
+BMS034	Transmission vélo adulte route	BMSOL	37.0000000000000	Cycle	Pièces détachées	Guidons		
+BMS035	Transmission vélo enfant VTT	BMSOL	30.7300000000000	Cycle	Pièces détachées	Transmissions		
+BMS036	Transmission vélo adulte VTT	BMSOL	43.0300000000000	Cycle	Pièces détachées	Transmissions		
+BMS038	Pédalier vélo adulte route	BMSOL	16.0000000000000	Cycle	Pièces détachées	Pédaliers		
+BMS039	Pédalier vélo enfant VTT	BMSOL	23.3700000000000	Cycle	Pièces détachées	Pédaliers		
+BMS037	Pédalier vélo enfant route	BMSOL	12.3000000000000	Cycle	Pièces détachées	Pédaliers		
+BMS040	Pédalier vélo adulte VTT	BMSOL	27.0600000000000	Cycle	Pièces détachées	Pédaliers		
+BMS041	Freins patins AV/AR	BMSOL	12.3000000000000	Cycle	Pièces détachées	Freins		
+BMS042	Freins disques AV/AR	BMSOL	40.5900000000000	Cycle	Pièces détachées	Freins		
+BMS043	Selle standard enfant	BMSOL	7.3800000000000	Cycle	Pièces détachées	Selles		
+BMS044	Selle standard adulte	BMSOL	12.3000000000000	Cycle	Pièces détachées	Selles		
+BMS045	Selle confort enfant	BMSOL	15.9900000000000	Cycle	Pièces détachées	Selles		
+BMS046	Selle confort adulte	BMSOL	30.7500000000000	Cycle	Pièces détachées	Selles		
+BMS047	Fourche standard enfant route	BMSOL	30.7500000000000	Cycle	Pièces détachées	Cadre		
+BMS048	Fourche standard adulte route	BMSOL	47.0000000000000	Cycle	Pièces détachées	Cadre		
+SUB002	Roue vélo adulte route str	SUBCO	74.2300000000000	Cycle	Pièces détachées	Roues		
+BMS051	Fourche sport enfant route	BMSOL	54.1200000000000	Cycle	Pièces détachées	Cadre		
+BMS049	Fourche standard enfant VTT	BMSOL	45.5100000000000	Cycle	Pièces détachées	Cadre		
+BMS050	Fourche standard adulte VTT	BMSOL	57.8100000000000	Cycle	Pièces détachées	Cadre		
+BMS052	Fourche sport adulte route	BMSOL	68.8800000000000	Cycle	Pièces détachées	Cadre		
+BMS053	Fourche sport enfant VTT	BMSOL	81.1800000000000	Cycle	Pièces détachées	Cadre		
+BMS054	Fourche sport adulte VTT	BMSOL	98.4000000000000	Cycle	Pièces détachées	Cadre		
+BTB001	Ecran 24" standard 16/10	BTBOR	400.0000000000000	Informatique	Ecrans	Ecran 24"		
+COM001	Phare AV velo	COMPO	8.4500000000000	Cycle	Vélos			
+COM002	Phare AR velo 	COMPO	10.3700000000000	Cycle	Vélos	Tourisme		
+COM003	Patte de fixation métal	COMPO	1.2100000000000	Cycle	Vélos	Tourisme		
+COM004	Vis CH M1	COMPO	0.1500000000000	Cycle	Vélos	Tourisme		
+BMS002	Pignons x 5	BMSOL	3.5000000000000	Cycle	Vélos	VTT		
+BMS001	Pignons x3	BMSOL	2.8800000000000	Cycle	Vélos	Tous		
+BMS003	Pignons x 7	BMSOL	23.9500000000000	Cycle	Vélos	Tous		
+BMS004	Plateau	BMSOL	5.1800000000000	Cycle	Vélos	Tous		
+BMS005	Plateaux x 2	BMSOL	5.8000000000000	Cycle	Vélos	VTT		
+EXP001	Divers	EXPEN	0.0000000000000	Tous	Tous	Tous		
+BMS007	Pompe Vélo	BMSOL	4.3800000000000	Cycle	Pièces détachées	Accessoires Vélo		
+BMS008	Jante rayons 20" route du sstr	BMSOL	10.3900000000000	Cycle	Pièces détachées	Roues		
+BMS009	Plateaux x 3	BMSOL	6.3100000000000	Cycle	Vélos			
+EXP002	Prestations	EXPEN	0.0000000000000	Tous	Tous	Tous		
+FIN901	Chariot rouge - Radio Flyer	FINIS	40.9542640000000	Jouet	Chariot	Premium		
+BMS012	Carte graphique PCI E 128 Mo	BMSOL	50.0000000000000	Informatique	Composants	Carte graphique		
+FIN303	Sce pimentée Carrefour 250gx24	FINIS	17.2500000000000	Agro-alimentaire	Sauce	Jalapeno		
+RAW004	Peinture M10M	RAWMA	52.8900000000000	Cycle	Vélos	Tourisme		
+RAW007	Tube acier	RAWMA	0.1000000000000	Cycle				
+RAW008	Tube aluminium	RAWMA	0.0900000000000	Cycle				
+SER001	Installation log. bureautique	SERVI	60.0000000000000	Informatique	Installation			
+SER002	Formation bureautique	SERVI	800.0000000000000	Informatique	Formation			
+SFI001	Cadre acier enfant route	SFINI	11.8900000000000	Cycle	Pièces détachées	Cadre		
+SFI002	Cadre acier adulte route	SFINI	90.0000000000000	Cycle	Pièces détachées	Cadre		
+SFI003	Cadre alu enfant route	SFINI	88.8500000000000	Cycle	Pièces détachées	Cadre		
+SFI004	Cadre alu adulte route	SFINI	88.9400000000000	Cycle	Pièces détachées	Cadre		
+SFI005	Cadre acier enfant VTT	SFINI	88.9100000000000	Cycle	Pièces détachées	Cadre		
+SFI006	Cadre acier adulte VTT	SFINI	89.0500000000000	Cycle	Pièces détachées	Cadre		
+SFI007	Cadre alu enfant VTT	SFINI	88.8500000000000	Cycle	Pièces détachées	Cadre		
+SFI008	Cadre alu adulte VTT	SFINI	260.5100000000000	Cycle	Pièces détachées	Cadre		
+SFI009	Roue vélo adulte route	SFINI	80.0000000000000	Cycle	Pièces détachées	Roues		
+SFI010	Roue alu vélo enfant route	SFINI	58.8600000000000	Cycle	Pièces détachées	Roues		
+SFI011	Roue alu vélo adulte route	SFINI	22.0200000000000	Cycle	Pièces détachées	Roues		
+SFI012	Roue vélo enfant VTT	SFINI	63.6000000000000	Cycle	Pièces détachées	Roues		
+SFI013	Roue vélo adulte VTT	SFINI	18.6500000000000	Cycle	Pièces détachées	Roues		
+SFI014	Roue alu vélo enfant VTT	SFINI	19.0300000000000	Cycle	Pièces détachées	Roues		
+SFI015	Roue alu vélo adulte VTT	SFINI	91.9900000000000	Cycle	Pièces détachées	Roues		
+SFI016	Poignée Vélo VTT	SFINI	32.9800000000000	Cycle	Pièces détachées	Roues		
+SFI017	Poignée Vélo Course	SFINI	28.6300000000000	Cycle	Pièces détachées	Roues		
+BMS055	Doliprane	BMSOL	130.0000000000000	Pharmaceutique				
+BMS024	Chambre à air 26" VTT	BMSOL	5.9900000000000	Cycle	Pièces détachées	Roues		
+BMS026	Pneu 20" VTT	BMSOL	15.5800000000000	Cycle	Pièces détachées	Roues		
+FIN304	Sce pimentée Carrefour 500gx12	FINIS	13.8000000000000	Agro-alimentaire	Sauce	Jalapeno		
+FIN305	Sce pimentée Carrefour 750g x8	FINIS	12.5500000000000	Agro-alimentaire	Sauce	Jalapeno		
+FIN311	Pain Raisin/Cannelle 450 g	FINIS	7.2500000000000	Agro-alimentaire	Pain	Raisin		
+FIN312	Pain Raisin/Cannelle 900 g	FINIS	7.2500000000000	Agro-alimentaire	Pain	Raisin		
+FIN313	Pain Raisin/Cannelle 1.35 Kg	FINIS	7.3000000000000	Agro-alimentaire	Pain	Raisin		
+FIN314	Pain Raisin/Cannelle 1.8 Kg	FINIS	7.3000000000000	Agro-alimentaire	Pain	Raisin		
+INT302	Boîte à épices	INTER	3.5000000000000	Agro-alimentaire	Ingrédient	Epice		
+INT311	Mél. Pain raisins et cannelle	INTER	1.6500000000000	Agro-alimentaire	Ingrédient	Solide		
+RAW303	Vinaigre	RAWMA	52.2500000000000	Agro-alimentaire	Ingrédient	Liquide		
+RAW304	Saindoux	RAWMA	11.0000000000000	Agro-alimentaire	Ingrédient	Solide		
+RAW316	Carton Sauce 250g Distri x24	RAWMA	1.4500000000000	Agro-alimentaire	Emballage	Carton		
+RAW317	Carton Sauce 500g Distri x12	RAWMA	1.4500000000000	Agro-alimentaire	Emballage	Carton		
+SER004	Sous-Traitance Assemblage roue	SERVI	76.0000000000000	Cycle	Pièces détachées	Roues		
+RAW318	Carton Sce 250g Carrefour x24	RAWMA	1.4500000000000	Agro-alimentaire	Emballage	Carton		
+RAW319	Carton Sce 500g Carrefour x12	RAWMA	1.4500000000000	Agro-alimentaire	Emballage	Carton		
+RAW320	Carton Sauce 750g Carrefour x8	RAWMA	1.4500000000000	Agro-alimentaire	Emballage	Carton		
+RAW321	Bocal Sauce pimentée 250g	RAWMA	0.2500000000000	Agro-alimentaire	Emballage	Récipient		
+RAW322	Bocal Sauce pimentée 500g	RAWMA	0.3000000000000	Agro-alimentaire	Emballage	Récipient		
+RAW323	Bocal Sauce pimentée 750g	RAWMA	0.3500000000000	Agro-alimentaire	Emballage	Récipient		
+RAW324	Couvercle sauce pimentée	RAWMA	0.1500000000000	Agro-alimentaire	Emballage	Récipient		
+RAW331	Farine de blé bio	RAWMA	1.0500000000000	Agro-alimentaire	Ingrédient	Farine		
+RAW332	Farine de blé complet	RAWMA	1.2500000000000	Agro-alimentaire	Ingrédient	Farine		
+RAW333	Sucre roux	RAWMA	0.8000000000000	Agro-alimentaire	Ingrédient	Poudre		
+RAW334	Gluten de farine de blé	RAWMA	1.4500000000000	Agro-alimentaire	Ingrédient	Solide		
+SER003	Sous-Traitance Peinture	SERVI	246.0000000000000	Cycle	Vélos	Tourisme		
+BMS057	Mémoire DDR2  2 Go 667 MHz	BMSOL	12.0000000000000	Informatique	Composants	Mémoires		
+BMS058	Mémoire DDR2  4 Go 800 MHz	BMSOL	19.0000000000000	Informatique	Composants	Mémoires		
+RAW335	Graines de Tournesol	RAWMA	6.0000000000000	Agro-alimentaire	Ingrédient	Graine		
+RAW336	Beurre d'arachide	RAWMA	1.9500000000000	Agro-alimentaire	Ingrédient	Epice		
+RAW337	Sel de mer	RAWMA	0.5500000000000	Agro-alimentaire	Ingrédient	Epice		
+RAW338	Levure	RAWMA	0.8500000000000	Agro-alimentaire	Ingrédient	Poudre		
+RAW339	Cannelle	RAWMA	1.3000000000000	Agro-alimentaire	Ingrédient	Epice		
+RAW340	Raisins	RAWMA	6.7500000000000	Agro-alimentaire	Ingrédient	Solide		
+RAW341	Cerefava	RAWMA	2.1500000000000	Agro-alimentaire	Ingrédient	Solide		
+RAW342	Oeuf en poudre	RAWMA	2.6000000000000	Agro-alimentaire	Ingrédient	Poudre		
+RAW343	Lait en poudre	RAWMA	2.8000000000000	Agro-alimentaire	Ingrédient	Poudre		
+SUB003	Roue alu vélo adulte route str	SUBCO	60.1200000000000	Cycle	Pièces détachées	Roues		
+SUB001	Roue vélo enfant route	SUBCO	36.8400000000000	Cycle	Pièces détachées	Roues		
+FIN301	Sauce pimentée Distri 250g x24	FINIS	17.1500000000000	Agro-alimentaire	Sauce	Jalapeno		
+TOO001	Gabarit cadre enfant / route	TOOLS		Cycle	Vélos	Tourisme		
+TOO002	Gabarit cadre enfant / VTT	TOOLS		Cycle	Vélos	Tourisme		
+TOO003	Gabarit cadre adulte / VTT	TOOLS		Cycle	Vélos	Tourisme		
+TOO004	Gabarit cadre adulte / route	TOOLS		Cycle	Vélos	Tourisme		
+TOO005	Moule N°4568 (Poignées)	TOOLS		Cycle	Vélos	Tourisme		
+DIS001	Clavier standard	DISTR	15.0000000000000	Informatique	Composants	Claviers		
+DIS002	Clavier standard sans fil	DISTR	20.0000000000000	Informatique	Composants	Claviers		
+DIS003	Souris standard	DISTR	10.0000000000000	Informatique	Composants	Souris		
+DIS004	Souris standard sans fil	DISTR	15.0000000000000	Informatique	Composants	Souris		
+DIS005	Anti-virus Norton	DISTR	40.0000000000000	Informatique	Composants	Logiciels		
+DIS006	Traitement de texte	DISTR	150.0000000000000	Informatique	Composants	Logiciels		
+DIS007	Tableur 	DISTR	250.0000000000000	Informatique	Composants	Logiciels		
+DIS008	Ecran 19" standard 4/3	DISTR	150.0000000000000	Informatique	Ecrans	Ecran 19"		
+DIS009	Ecran 22" standard 16/10	DISTR	220.0000000000000	Informatique	Ecrans	Ecran 22"		
+DIS010	Imprimante laser n&b 10 pg/mn	DISTR	120.0000000000000	Informatique	Imprimantes	Laser		
+FIN001	Vélo enfant route standard	FINIS	322.5000000000000	Cycle	Vélos	Tourisme		
+FIN002	Vélo adulte route standard	FINIS	430.0000000000000	Cycle	Vélos	Tourisme		
+FIN003	Vélo enfant VTT standard	FINIS	400.6400000000000	Cycle	Vélos	VTT		
+FIN004	Vélo adulte VTT standard	FINIS	454.7500000000000	Cycle	Vélos	VTT		
+FIN005	Vélo enfant route sport	FINIS	355.2200000000000	Cycle	Vélos	Tourisme		
+FIN006	Vélo adulte route sport	FINIS	470.5300000000000	Cycle	Vélos	Tourisme		
+FIN007	Vélo enfant VTT sport	FINIS	413.1900000000000	Cycle	Vélos	VTT		
+FIN008	Vélo adulte VTT sport	FINIS	671.5900000000000	Cycle	Vélos	VTT		
+FIN009	UC station graphique	FINIS	1242.0000000000000	Informatique	Ordinateurs	Station de travail		
+FIN010	Unité centrale	FINIS	1272.0000000000000	Informatique	Ordinateurs	Station de travail		
+PHA001	Kit éclairage AV / AR	PHANT		Cycle	Vélos	Tourisme		
+RAW003	Cable BBB shifline	RAWMA	3.6900000000000	Cycle	Vélos	Tourisme		
+RAW001	Polypropylène PP	RAWMA	36.9000000000000	Cycle	Pièces détachées	Roues		
+RAW002	Colorant	RAWMA	55.3500000000000	Cycle	Vélos			
+FIN302	Sauce pimentée Distri 500g x12	FINIS	13.7500000000000	Agro-alimentaire	Sauce	Jalapeno		
+RAW511	Bouchon hermétique-Petit	RAWMA	0.5000000000000	Chimique	Emballage	Récipient		
+INT301	Sauce aux haricots & piments	INTER	0.5500000000000	Agro-alimentaire	Ingrédient	Solide		
+RAW309	Poivre de Cayenne	RAWMA	0.3000000000000	Agro-alimentaire	Ingrédient	Epice		
+RAW310	Sucre blanc	RAWMA	0.6000000000000	Agro-alimentaire	Ingrédient	Poudre		
+RAW312	Etiq. Sauce 500g Distri x12	RAWMA	0.1000000000000	Agro-alimentaire	Emballage	Etiquette		
+RAW313	Etiq. Sauce 250g Carrefour x24	RAWMA	0.1000000000000	Agro-alimentaire	Emballage	Etiquette		
+RAW314	Etiq. Sauce 500g Carrefour x12	RAWMA	0.1000000000000	Agro-alimentaire	Emballage	Etiquette		
+RAW315	Etiq. Sauce 750g Carrefour x8	RAWMA	0.1000000000000	Agro-alimentaire	Emballage	Etiquette		
+RAW420	Etiquette, Aspirine, 100	RAWMA	0.1000000000000	Pharmaceutique	Emballage	Etiquette		
+RAW421	Etiquette, Asprine, 50	RAWMA	0.1000000000000	Pharmaceutique	Emballage	Etiquette		
+RAW422	Coton - Remplis. pour flacon	RAWMA	50.0000000000000	Pharmaceutique	Emballage	Remplisseur		
+RAW418	Flacon, plastique, 100	RAWMA	0.2500000000000	Pharmaceutique	Emballage	Récipient		
+RAW347	Sac Pain Etiqueté 1.35 Kg	RAWMA	0.2500000000000	Agro-alimentaire	Emballage	Récipient		
+RAW348	Sac Pain Etiqueté 1.8 Kg	RAWMA	0.2500000000000	Agro-alimentaire	Emballage	Récipient		
+RAW349	Carton Pain	RAWMA	1.1000000000000	Agro-alimentaire	Emballage	Carton		
+FIN401	Aspirine Acme - Flc-100cnt-CS	FINIS	55.0000000000000	Pharmaceutique	Douleur	Aspirine		
+FIN402	Aspirine Acme - Flc-50cnt-CS	FINIS	45.0000000000000	Pharmaceutique	Douleur	Aspirine		
+INT401	Aspirine Acme - Comprimé	INTER	80.0000000000000	Pharmaceutique	Ingrédient	Solide		
+RAW401	Gélatine - Type B	RAWMA	2.5500000000000	Pharmaceutique	Ingrédient	Solide		
+RAW402	Alcool polyvinylique	RAWMA	4.4500000000000	Pharmaceutique	Ingrédient	Liquide		
+RAW403	Eau purifiée	RAWMA	0.0500000000000	Pharmaceutique	Ingrédient	Liquide		
+RAW404	Urée	RAWMA	0.7500000000000	Pharmaceutique	Ingrédient	Solide		
+RAW405	EDTA	RAWMA	3.4500000000000	Pharmaceutique	Ingrédient	Solide		
+RAW406	Kaolin	RAWMA	0.4500000000000	Pharmaceutique	Ingrédient	Solide		
+RAW407	D-Sorbitol 70%	RAWMA	0.2500000000000	Pharmaceutique	Ingrédient	Liquide		
+RAW408	Polyacrylate de Sodium	RAWMA	3.9000000000000	Pharmaceutique	Ingrédient	Solide		
+RAW409	Sodium Carboxymenthylcellulose	RAWMA	1.2500000000000	Pharmaceutique	Ingrédient	Solide		
+RAW410	Glycerine	RAWMA	0.4000000000000	Pharmaceutique	Ingrédient	Liquide		
+RAW411	Acide Tartrique	RAWMA	1.6000000000000	Pharmaceutique	Ingrédient	Liquide		
+RAW412	Acide Polyacrylique  20%	RAWMA	1.1000000000000	Pharmaceutique	Ingrédient	Liquide		
+RAW413	Lidocaïne	RAWMA	8.2500000000000	Pharmaceutique	Ingrédient	Liquide		
+RAW414	Propylène glycol 	RAWMA	0.6000000000000	Pharmaceutique	Ingrédient	Liquide		
+RAW415	Parabène de méthyle	RAWMA	1.6000000000000	Pharmaceutique	Ingrédient	Solide		
+COM911	Roue de chariot, Rouge	COMPO	2.7500000000000	Jouet	Composant	Roue		
+COM912	Roue de chariot, Bleu	COMPO	2.8000000000000	Jouet	Composant	Roue		
+COM913	Roue de chariot, Jaune	COMPO	2.8500000000000	Jouet	Composant	Roue		
+RAW419	Flacon, plastique, 50	RAWMA	0.2400000000000	Pharmaceutique	Emballage	Récipient		
+RAW301	Haricot Pinto	RAWMA	0.2500000000000	Agro-alimentaire	Ingrédient	Haricot		
+RAW302	Piment	RAWMA	0.3000000000000	Agro-alimentaire	Ingrédient	Solide		
+RAW305	Sel	RAWMA	0.1000000000000	Agro-alimentaire	Ingrédient	Epice		
+RAW306	Oignon en poudre	RAWMA	0.5500000000000	Agro-alimentaire	Ingrédient	Poudre		
+RAW307	Paprika	RAWMA	0.6500000000000	Agro-alimentaire	Ingrédient	Epice		
+RAW308	Ail en poudre	RAWMA	0.1900000000000	Agro-alimentaire	Ingrédient	Poudre		
+FIN502	Acme Axle Grease-Seau de 35 LB	FINIS	12.5000000000000	Chimique	Lubrifiant	Graisse		
+RAW311	Etiq. Sauce 250g Distri x24	RAWMA	0.1000000000000	Agro-alimentaire	Emballage	Etiquette		
+FIN902	Chariot bleu -  Radio Flyer	FINIS	41.9466320000000	Jouet	Chariot	Premium		
+FIN903	Chariot jaune - Radio Flyer	FINIS	42.9771680000000	Jouet	Chariot	Premium		
+FIN911	Chariot rouge - Standard	DISTR	31.9466160000000	Jouet	Chariot	Standard		
+FIN912	Chariot bleu - Standard	DISTR	32.9771520000000	Jouet	Chariot	Standard		
+FIN913	Chariot jaune - Standard	DISTR	33.9695200000000	Jouet	Chariot	Standard		
+SFI911	Benne de chariot rouge	SFINI	12.7500000000000	Jouet	Composant	Fabriqué		
+SFI912	Benne pour chariot bleu	SFINI	13.0000000000000	Jouet	Composant	Fabriqué		
+SFI913	Benne de chariot jaune	SFINI	13.2500000000000	Jouet	Composant	Fabriqué		
+SFI901	Benne de chariot	SFINI	5.0000000000000	Jouet	Composant	Fabriqué		
+SFI902	Support d'arbre	SFINI	6.7500000000000	Jouet	Composant	Fabriqué		
+SFI903	Essieu	SFINI	1.9500000000000	Jouet	Composant	Fabriqué		
+RAW901	Feuille acier, 32x50	RAWMA	1.0500000000000	Jouet	Composant	Métal		
+RAW344	Eau	RAWMA	0.0500000000000	Agro-alimentaire	Ingrédient	Liquide		
+RAW345	Sac Pain Etiqueté 450 g	RAWMA	0.2500000000000	Agro-alimentaire	Emballage	Récipient		
+RAW346	Sac Pain Etiqueté 900 g	RAWMA	0.2500000000000	Agro-alimentaire	Emballage	Récipient		
+ASS001	Serveur informatique	ASSET		Informatique	Ordinateurs	Serveur		
+BMS056	Aspirine	BMSOL	130.0000000000000	Pharmaceutique				
+RAW416	Propyle parabène	RAWMA	3.6000000000000	Pharmaceutique	Ingrédient	Solide		
+RAW417	Aminoacetate Dihydorxyaluminum	RAWMA	4.3500000000000	Pharmaceutique	Ingrédient	Liquide		
+RAW423	Carton, Aspirine	RAWMA	1.7000000000000	Pharmaceutique	Emballage	Carton		
+FIN501	Acme Axle Grease-Bidon 55 GAL	FINIS	107.6337600000000	Chimique	Lubrifiant	Graisse		
+INT501	Graisse	INTER	0.2000000000000	Chimique	Ingrédient	Liquide		
+RAW501	Stock N-Brite	RAWMA	0.4000000000000	Chimique	Ingrédient	Liquide		
+RAW502	Mayco BFO	RAWMA	0.2000000000000	Chimique	Ingrédient	Liquide		
+RAW503	Hitec 565	RAWMA	0.1800000000000	Chimique	Ingrédient	Liquide		
+RAW504	Antifoam Kérosène 4%	RAWMA	1.1500000000000	Chimique	Ingrédient	Liquide		
+RAW505	Colloïdal	RAWMA	0.6500000000000	Chimique	Ingrédient	Liquide		
+RAW506	Hydroxy Stearique Liquide N°12	RAWMA	0.5000000000000	Chimique	Ingrédient	Liquide		
+RAW507	Etiquette - Code barre/Large	RAWMA	0.1000000000000	Chimique	Emballage	Etiquette		
+RAW902	Tige en acier, 1/4 x 1 x 8	RAWMA	0.5500000000000	Jouet	Composant	Métal		
+RAW903	Barre en acier, 1/4 x 1 x 8	RAWMA	0.3500000000000	Jouet	Composant	Métal		
+RAW904	Peinture Rouge	RAWMA	17.9500000000000	Jouet	Composant	Peinture		
+RAW905	Peinture Bleu	RAWMA	17.9500000000000	Jouet	Composant	Peinture		
+RAW906	Peinture Jaune	RAWMA	17.9500000000000	Jouet	Composant	Peinture		
+RAW907	Peinture Noir	RAWMA	16.9500000000000	Jouet	Composant	Peinture		
+RAW921	Box pour Chariot	RAWMA	1.6500000000000	Jouet	Package	Carton		
+RAW508	Bidon de 55 gallons	RAWMA	35.0000000000000	Chimique	Emballage	Récipient		
+RAW509	Seau de 35 LB	RAWMA	3.0000000000000	Chimique	Emballage	Récipient		
+RAW510	Bouchon hermétique-Grand	RAWMA	0.5000000000000	Chimique	Emballage	Récipient		
+COM005	iPhone 5 - boîte	COMPO	0.0000000000000					
+COM006	iPhone 5 - écran	COMPO	0.0000000000000					
+COM007	iPhone 5 - batterie	COMPO	0.0000000000000					
+COM008	iPhone 5 - circuit électroniq.	COMPO	0.0000000000000					
+BMS067	TV HD 3D Samsung 17 pouces	BMSOL	0.0000000000000					
+COM914	Roue de chariot, Blanc	COMPO	1.6500000000000	Jouet	Composant	Roue		
+COM915	Poignée de chariot, Noir	COMPO	2.9500000000000	Jouet	Composant	Poignée		
+RAW922	Etiquette pour chariot rouge	RAWMA	0.9500000000000	Jouet	Package	Etiquette		
+RAW923	Etiquette pour chariot bleu	RAWMA	0.9500000000000	Jouet	Package	Etiquette		
+RAW924	Etiquette pour chariot jaune	RAWMA	0.9500000000000	Jouet	Package	Etiquette		
+SER005	Maintenance	SERVI	0.0000000000000					
+EXP003	Helpdesk 	EXPEN	0.0000000000000	Tous	Tous	Tous		
+SER006	Main d'oeuvre	SERVI	0.0000000000000					
+BMS064	Toner pour imprimante Canon	BMSOL	50.0000000000000	Informatique	Imprimantes			
+BMS065	Couvre imprimante Canon	BMSOL	50.0000000000000	Informatique	Imprimantes	Laser		
+DIS013	IPHONE 7	DISTR	800.0000000000000	Informatique	Ordinateurs			
+DIS012	IPAD 5 retina black	DISTR	249.0000000000000	Informatique	Ordinateurs			
+FIN011	VTT Adultes	FINIS	0.0000000000000					
+FIN012	Samsung 55" (140cm) 3DFull HD	FINIS	0.0000000000000					
+BMS059	Roulement à billes	BMSOL	0.0000000000000					
+FIN013	Jus de raisin clarifié	FINIS	0.0000000000000					
+FIN014	Pulpe de tomate	FINIS	0.0000000000000					
+BMS060	Copieur couleur Canon 2520	BMSOL	0.0000000000000					
+BMS061	Antenne multicouches 413 MHz	BMSOL	0.0000000000000					
+BMS062	Portable Dell Xps 17 pouces	BMSOL	0.0000000000000					
+BMS063	Moteur électrique	BMSOL	0.0000000000000					
+BMS066	Ciment	BMSOL	0.0000000000000					
+ASS003	Contrat Immobilisé incorp.	ASSET		Informatique	Contrats	Tous		
+INT411	Aspirine à croquer - Vrac	INTER	80.0000000000000	Pharmaceutique	Ingrédient	Liquide		
+INT412	Aspirine à croquer - comprimé	INTER	80.0000000000000	Pharmaceutique	Ingrédient	Solide		
+RAW424	Arôme artificiel	RAWMA	0.7500000000000	Pharmaceutique	Ingrédient	Solide		
+RAW425	Acide acétylsalicylique	RAWMA	0.7500000000000	Pharmaceutique	Ingrédient	Liquide		
+RAW426	Solution de lactose	RAWPO		Pharmaceutique	Ingrédient	Liquide		
+RAW427	Amidon de maïs	RAWMA	0.0000000000000	Pharmaceutique	Ingrédient	Solide		
+RAW428	Colorant	RAWMA	0.0000000000000	Pharmaceutique	Ingrédient	Solide		
+RAW429	Eau purifié	RAWMA	0.0000000000000	Pharmaceutique	Ingrédient	Liquide		
+RAW430	Lubrifiant	RAWMA	0.7500000000000	Pharmaceutique	Ingrédient	Liquide		
+RAW431	Liant	RAWMA	0.7500000000000	Pharmaceutique	Ingrédient	Solide		
+EXP004	Temps de travail	EXPEN	100.0000000000000	Tous	Tous	Tous		
+MANGO		BMSOL	0.0000000000000					
+BANANA		BMSOL	0.0000000000000					
+KIWI		BMSOL	0.0000000000000					
+BMS099	Jante rayons 15" VTT	BMSOL	0.0000000000000					
+COCONUT_CHIPS		BMSOL	0.0000000000000					
+BMS071	Jante alu 16" route	BMSOL	40.4300000000000	Cycle	Pièces détachées	Roues		
+BMS089	Freins disques AR	BMSOL	40.5900000000000	Cycle	Pièces détachées	Freins		
+WATCHPROCESSORS1		DISTR	0.0000000000000					
+RETINASCREEN		SUBCO	0.0000000000000					
+WATCHDRAM		COMPO	0.0000000000000					
+TAPTICENG		COMPO	0.0000000000000					
+PN_SLICES		BMSOL	0.0000000000000					
+PEACHES		BMSOL	0.0000000000000					
+PEARS		BMSOL	0.0000000000000					
+TROP_FC		BMSOL	0.0000000000000					
+APRICOT		BMSOL	0.0000000000000					
+FAS001	Article immobilisé	BMSOL	0.0000000000000					
+APPLEWATCHSP		FINIV	700.0000000000000	Informatique				
+WATCHMOTHERBOARD		SFINI	0.0000000000000					
+WATCHSILVERALUCASING		SFINI	0.0000000000000					
+WATCHSILVERALUFRAM		SUBCO	0.0000000000000					
+ALUMSHEET		RAWMA	0.0000000000000					
+BMS079	Tranches de poires	BMSOL	0.0000000000000					
+BMS077	Tranches de kiwi déshydratées	BMSOL	0.0000000000000					
+BMS078	Tranches de pêche	BMSOL	0.0000000000000					
+BMS080	Tranches d'ananas	BMSOL	0.0000000000000					
+BMS081	Sacs en papier sandwich	BMSOL	0.0000000000000					
+BMS082	Tables rondes	BMSOL	0.0000000000000					
+BMS083	Table de travail en acier inox	BMSOL	0.0000000000000					
+BMS084	Cocktail aux fruits tropicaux	BMSOL	0.0000000000000					
+BMS085	Tranches de mangue déshydrat.	BMSOL	0.0000000000000					
+DIS016	Samsung Galaxy S7	DISTR	0.0000000000000					
+SER008	Sous-traitance Watch ass. écr.	SERVI	0.0000000000000					
+RAW009	Feuille d'aluminium	RAWMA	0.0000000000000					
+MPM001	Apple Watch Sport	FINIV	700.0000000000000	Informatique				
+COM009	Apple Watch - batterie	COMPO	2.0000000000000					
+COM010	Apple Watch - protection écran	COMPO	0.0000000000000	Informatique	Composants	Tous		
+COM011	Apple Watch - écran OLED flex.	COMPO	0.0000000000000					
+COM012	Apple Watch - bracelet sport	COMPO	0.0000000000000					
+CRISTALSAPHIR		RAWMA	0.0000000000000					
+TOUCHSCREENCTRL		RAWMA	0.0000000000000					
+INTERFCONNECT		RAWMA	0.0000000000000					
+DIGITALCROWN		COMPO	0.0000000000000					
+REARBOX		SFINI	0.0000000000000					
+CERAMICCOVER		COMPO	0.0000000000000					
+INFRAREDLED		RAWMA	0.0000000000000					
+AWBATTERY		COMPO	2.0000000000000					
+AWSPORTBAND		COMPO	0.0000000000000					
+SB_PLAINPAPER		BMSOL	0.0000000000000					
+CONTAINER_CLEAR		BMSOL	0.0000000000000					
+CHAITEA		BMSOL	0.0000000000000					
+GREENTEA		BMSOL	0.0000000000000					
+TABLE		BMSOL	0.0000000000000					
+ALUM_RACK		BMSOL	0.0000000000000					
+FT_TABLE		BMSOL	0.0000000000000					
+ROUNDS		BMSOL	0.0000000000000					
+COM013	Apple Watch - boîtier céramiq.	COMPO	0.0000000000000					
+RAW010	Verre de montre saphir	RAWMA	0.0000000000000					
+COM014	Apple Watch - couronne digit.	COMPO	0.0000000000000					
+RAW011	Capteur à LED infrarouge	RAWMA	0.0000000000000					
+RAW012	Connecteur d'interface	RAWMA	0.0000000000000					
+RAW013	Pilote d'écran tactile	RAWMA	0.0000000000000					
+SFI018	Apple Watch - boitier arrière	SFINI	0.0000000000000					
+SUB004	Ecran tactile Retina pr iWatch	SUBCO	0.0000000000000					
+COM015	Apple Watch - Taptic Engine	COMPO	0.0000000000000					
+COM016	Apple Watch - mémoire DRAM	COMPO	0.0000000000000					
+SFI019	Apple Watch Sport - carte mère	SFINI	0.0000000000000					
+DIS015	Processeur S1 Apple Watch	DISTR	0.0000000000000					
+SFI020	Boitier argent en aluminium	SFINI	0.0000000000000					
+SUB005	Mécanisme en aluminium argenté	SUBCO	0.0000000000000					
+BMS068	Rack en aluminium	BMSOL	0.0000000000000					
+BMS072	Thé Chai	BMSOL	0.0000000000000					
+AWSLOWXCOVERGLASS		COMPO	0.0000000000000	Informatique	Composants	Tous		
+AWSOLEDDISPLAY		COMPO	0.0000000000000					
+PAINT	Peinture	SFINI	0.0000000000000					
+BMS069	Tranches d'abricot	BMSOL	0.0000000000000					
+WATCHBOX	Boitier de montre	DISTR	0.0000000000000					
+SER007	Sous-traitance Watch	SERVI	0.0000000000000					
+BMS070	Tranches de bananes déshydrat.	BMSOL	0.0000000000000					
+BMS073	Noix de coco râpée déshydratée	BMSOL	0.0000000000000					
+BMS074	Sac en plastique transparent	BMSOL	0.0000000000000					
+BMS075	Table supérieure plate	BMSOL	0.0000000000000					
+BMS076	Thé vert	BMSOL	0.0000000000000					
+RAW014	Produit de nettoyage	RAWMA	0.0000000000000					
+SFI050	Cadre vélo enfant	SFINV	88.9100000000000					
+FIN020	Vélo enfant	FINIV	400.6400000000000					
+BMS088	Plaque d'identification	BMSOV	12.0000000000000					
+BMS086	Plaque Londres-Brighton	BMSOL	12.0000000000000	Cycle	Pièces détachées	Accessoires Vélo		
+BMS087	Plaque Tour de France	BMSOL	0.0000000000000	Cycle	Pièces détachées	Accessoires Vélo		
+FIN024		FINIS	0.0000000000000					
+COM101		COMOM	0.0000000000000					
+COM100		COMOM	0.0000000000000					
+COM102		COMOM	0.0000000000000					
+COM103		COMOM	0.0000000000000					
+COM104		COMOM	0.0000000000000					
+COM105		COMOM	0.0000000000000					
+COM106		COMOM	0.0000000000000					
+COM107		COMOM	0.0000000000000					
+COM108		COMOM	0.0000000000000					
+COM109		COMOM	0.0000000000000					
+RAW015		RAWMA	0.0000000000000					
+RAW022		RAWMA	0.0000000000000					
+RAW023		RAWMA	0.0000000000000					
+RAW024		RAWMA	0.0000000000000					
+COM110		COMOM	0.0000000000000					
+COM917	Poignée de chariot, bleue	COMPO	2.9500000000000	Jouet	Composant	Poignée		
+COM916	Poignée de chariot, rouge	COMPO	2.9500000000000	Jouet	Composant	Poignée		
+COM918	Poignée de chariot, jaune	COMPO	2.9500000000000	Jouet	Composant	Poignée		
+SFI024	Systéme de transfert	SFINI	0.0000000000000					
+RMP006	Boitier	RMPBO	0.0000000000000					
+PHA002	Chaine énergétique	PHANT						
+RMP007	Clavier	RMPBO	0.0000000000000					
+RMP008	Circuit de contrôle N°1	RMPBO	0.0000000000000					
+RMP009	Circuit de contrôle N°2	RMPBO	0.0000000000000					
+RMP010	Ecran	RMPBO	0.0000000000000					
+RAW026	Rails	RAWMA	0.0000000000000					
+RAW027	Pieds	RAWMA	0.0000000000000					
+RAW028	Renforts	RAWMA	0.0000000000000					
+RAW029	Socles	RAWMA	0.0000000000000					
+RMP011	Chaîne	RMPBO	0.0000000000000					
+RAW030	Galets	RAWMA	0.0000000000000					
+RAW031	Vis à filets	RAWMA	0.0000000000000					
+RAW032	Glissière	RAWMA	0.0000000000000					
+RAW033	Contrepoids	RAWMA	0.0000000000000					
+RAW034	Poussoirs	RAWMA	0.0000000000000					
+RMP012	Moteur	RMPBO	0.0000000000000					
+RMP013	Courroie	RMPBO	0.0000000000000					
+RMP014	Tendeur	RMPBO	0.0000000000000					
+SER011	Temps générique en heures	SERVI	75.0000000000000					
+SER012	Temps générique en jours	SERVI	75.0000000000000					
+RAW016		RAWMA	0.0000000000000					
+RAW017		RAWMA	0.0000000000000					
+RAW018		RAWMA	0.0000000000000					
+RAW019		RAWMA	0.0000000000000					
+RAW020		RAWMA	0.0000000000000					
+RMP003		RMPBO	0.0000000000000					
+RMP001		RMPBO	0.0000000000000					
+RMP002		RMPBO	0.0000000000000					
+RAW021		RAWMA	0.0000000000000					
+REFBIKE	Référence du produit vélo	FINIV	322.5000000000000	Cycle	Vélos	Tourisme		
+SER010	Assemblage sur site	SERVI	640.0000000000000					
+SER013	Prestation générique	SERVI	800.0000000000000					
+EXP007	Générique non livrable	GNDE	0.0000000000000					
+RMP004		RMPBO	0.0000000000000					
+RMP005		RMPBO	0.0000000000000					
+SFI021	Pupitre de commande	SFINI	0.0000000000000					
+SFI022	Bâti	SFINI	0.0000000000000					
+SFI023	Bâti mécanique	SFINI	0.0000000000000					
+EXP006	Service non livrable	SNDE	0.0000000000000					
+RAW025		RAWMA	0.0000000000000					
+SER009	Conception	SERVI	75.0000000000000					
+DIS031	Ecran standard 26" (16:10)	DISTR	850.0000000000000	Informatique	Ecrans			
+DIS032	Ecran Premium 26" (16:10)	DISTR	475.0000000000000	Informatique	Ecrans			
+FIN046	Convoyeur	FINIS	0.0000000000000					
+FIN921	Chariot rouge - Radio Flyer	FINIV	40.9543000000000	Jouet	Chariot	Premium		
+FIN922	Chariot bleu - Radio Flyer	FINIV	41.9466000000000	Jouet	Chariot	Premium		
+FIN923	Chariot jaune - Radio Flyer	FINIV	42.9772000000000	Jouet	Chariot	Premium		
+FIN931	Chariot rouge - Standard	FINIV	31.9466000000000	Jouet	Chariot	Standard		
+FIN932	Chariot bleu - Standard	FINIV	32.9772000000000	Jouet	Chariot	Standard		
+FIN933	Chariot jaune - Standard	FINIV	33.9695000000000	Jouet	Chariot	Standard		
+RAW926	Etiquette rouge chariot RF	RAWMA	0.9500000000000	Jouet	Package	Etiquette		
+RAW927	Etiquette bleue chariot RF	RAWMA	0.9500000000000	Jouet	Package	Etiquette		
+RAW928	Etiquette jaune chariot RF	RAWMA	0.9500000000000	Jouet	Package	Etiquette		
+EXP005	Transport de matériel	EXPEN	1000.0000000000000	Tous	Tous	Tous		
+FIN047	Vélos pour enfants	FINIS	470.5300000000000	Cycle	Vélos	Tourisme		
+SER015	Facturation projet	SERND	0.0000000000000	Tous	Tous			
+BMS101		BMSOL	0.0000000000000					
+EXP008	Interco - Ingénieur niveau 1	EXPEN	1000.0000000000000					
+RAW038	Tube acier 5454	RAWMA	0.1000000000000	Cycle				
+RAW039	Peinture Zolpan	RAWMA	52.8900000000000	Cycle	Vélos	Tourisme		
+SFI026	Pied de tabouret brut	SFINI	0.0000000000000	Ameublement	Tabouret	standard		
+SFI027	Pied de tabouret Noir	SFINI	0.0000000000000	Ameublement	Tabouret	standard		
+SFI028	Pied de tabouret Jaune	SFINI	0.0000000000000	Ameublement	Tabouret	standard		
+SFI029	Pied de tabouret Blanc	SFINI	0.0000000000000	Ameublement	Tabouret	standard		
+SFI030	Pied de tabouret Rouge	SFINI	0.0000000000000	Ameublement	Tabouret	standard		
+COM019	Vis CH M2--6	COMPO	0.1500000000000	Cycle	Vélos	Tourisme		
+FIN049	Tabouret métal blanc	FINIS	45.0000000000000	Ameublement	Tabouret	standard		
+FIN050	Tabourets métal noir	FINIS	45.0000000000000	Ameublement	Tabouret	standard		
+FIN051	Tabouret métal jaune	FINIS	50.0000000000000	Ameublement	Tabouret	standard		
+RAW035		RAWMA	0.0000000000000					
+BMS102		BMSOL	0.0000000000000	Cycle	Pièces détachées	Freins		
+BMS103	Disc brake - air Brake V2	BTBOR	24.0000000000000	Cycle	Pièces détachées	Freins		
+SFI025		SFINV	0.0000000000000					
+FIN052	Tabouret métal rouge	FINIS	45.0000000000000	Ameublement	Tabouret	standard		
+COM020		COMPO	0.0000000000000					
+COM021	Siège en plastique noir 	COMPO	0.0000000000000					
+CON006	Pompe Electrique	CONTR	0.0000000000000					
+FIN053		FINIS	470.0000000000000	Cycle	Vélos	Tourisme		
+BTB002		BTBOR	24.0000000000000	Cycle	Pièces détachées	Freins		
+SFI031		SFINV	0.0000000000000					
+RMP015		RMPBO	0.0000000000000					
+CON001	Sirop de Canne	CONTR	0.0000000000000					
+CON002	Sirop de Cane concentré	CONTR	0.0000000000000					
+CON003	Polypropene	CONTR	0.0000000000000					
+CON004	Douilles Aluminium	CONTR	0.0000000000000					
+CON005	Roulement à billes 	CONTR	0.0000000000000					
+FIN048		FINIS	17.1500000000000	Agro-alimentaire	Sauce	Jalapeno		
+RAW036		RAWMA	0.0000000000000					
+RAW037		RAWMA	0.0000000000000					
+ASS004	Supermicro	ASSET		Informatique	Ordinateurs	Serveur		
+SERV014	Service non livrable	SERND	0.0000000000000					
+SER014	Abonnement logiciel	SERND	0.0000000000000	Informatique	Prestation			
+DIS018		DISTR	110.0000000000000					
+BMS104	Iphone 10	BMSOL	0.0000000000000	Informatique				
+SER016	Service	SERVI	0.0000000000000	A définir				
+DIS017		DISTR	110.0000000000000					

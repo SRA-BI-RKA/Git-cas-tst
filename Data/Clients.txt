@@ -1,0 +1,159 @@
+Code client	Client	Code postal	Code pays client	Code représentant	Stat 1	Stat 2	Stat 3	Stat 4	Stat 5	Catégorie client
+NA001	International Distributors	33710	US	 	Général	Informatique	Amérique	NULL	NULL	Clients Etats-Unis
+NA011	NA10 - Intercompany	92618	US	 	Grossiste	Grossite	Amérique	NULL	NULL	Clients Inter-sites
+NA012	Bike & Toy Products	92618	US	 	Professionnels	Revendeur	Amérique	NULL	NULL	Clients Inter-sites
+NA021	Food Products	92618	US	 	Professionnels	Grand compte	Amérique	NULL	NULL	Clients Inter-sites
+NA022	Pharmaceutical Products	92618	US	 	Professionnels	Grand compte	Amérique	NULL	NULL	Clients Inter-sites
+NA023	Chemical Products	92618	US	 	Professionnels	Revendeur	Amérique	NULL	NULL	Clients Inter-sites
+NA002	Amalgamate Supply	15143	US	 	Général	Informatique	NULL	NULL	NULL	Clients Etats-Unis
+NA003	Fun Times Stores	60620	US	 	Professionnels	Revendeur	Amérique	NULL	NULL	Clients Etats-Unis
+NA004	Leisure Sports Inc	90035	US	 	Général	Vélo	Amérique	NULL	NULL	Clients Etats-Unis
+NA005	Johnson Wholesale	33710	US	 	Général	Agro	Amérique	NULL	NULL	Clients Etats-Unis
+PT008	Industria e Manufacturas	4440452	PT	 	Autre	Autres	Europe	NULL	NULL	Clients Portugais
+PT151	Lisboa BTT	1500275	PT	 	Revendeur	Revendeur pro	Europe	NULL	NULL	NULL
+PT152	J.Louro & Associados	1990155	PT	 	Revendeur	Revendeur pro	Europe	NULL	NULL	NULL
+SPA01	ACME Company	08174	ES	 	NULL	NULL	NULL	NULL	NULL	Clients Espagnols
+SPA002	ACME	 	ES	 	NULL	NULL	NULL	NULL	NULL	Clients Espagnols
+FR013	Modern Bike SA	44000	FR	 	Professionnels	Administration	Europe	NULL	NULL	Clients Français
+FR001	Urban Cycle	44000	FR	 	Général	Vélo	Europe	NULL	NULL	Clients Français
+FR152	Infocert	69006	FR	 	Revendeur	Informatique	Europe	NULL	NULL	NULL
+FR151	Cycle Manudano	69006	FR	 	Revendeur	Vélo	Europe	NULL	NULL	NULL
+FR006	Kruteneau	67000	FR	 	Grossiste	Agro	Europe	NULL	NULL	Clients Français
+FR002	Vélo Attitudes	13770	FR	 	Revendeur	Vélo	Europe	NULL	NULL	Clients Français
+FR003	Cybertek	44400	FR	 	Revendeur	Informatique	Europe	NULL	NULL	Clients Français
+FR004	Micro Systems	95370	FR	 	Professionnels	Informatique	Europe	NULL	NULL	Clients Français
+FR005	Agrolim	33270	FR	 	Professionnels	Agro	Europe	NULL	NULL	Clients Français
+FR007	Eurofins	31000	FR	 	Professionnels	Chimie	Europe	NULL	NULL	Clients Français
+FR008	Cortex 	31500	FR	 	Professionnels	Revendeur	Europe	NULL	NULL	Clients Français
+FR009	Pharmatex	59650	FR	 	Professionnels	Pharmaceutique	Europe	NULL	NULL	Clients Français
+FR010	DMI	21000	FR	 	Professionnels	Revendeur	Europe	NULL	NULL	Clients Français
+FR011	Computer SA	92400	FR	 	Professionnels	Autres	Europe	NULL	NULL	Clients Inter-sites
+FR012	Bike City	44000	FR	 	Professionnels	Revendeur	Europe	NULL	NULL	Clients Inter-sites
+ES001	BH	28029	ES	 	Particuliers	Vélo	Europe	NULL	NULL	Clients Espagnols7
+NA006	Sysco Supply	15143	US	 	Général	Agro	Amérique	NULL	NULL	Clients Etats-Unis
+NA007	Williams Distributors	30019	US	 	Général	Pharmaceutique	Amérique	NULL	NULL	Clients Etats-Unis
+NA008	Aldermans	60620	US	 	Général	Pharmaceutique	Amérique	NULL	NULL	Clients Etats-Unis
+NA010	Dayton Marshall Inc	72701	US	 	Général	Chimie	Amérique	NULL	NULL	Clients Etats-Unis
+ES011	Productos Tecnológicos SA	28034	ES	 	Professionnels	Autres	Europe	NULL	NULL	Clients Inter-sites
+FR052	OnicIndus	72000	FR	 	Autre	NULL	NULL	NULL	NULL	Sous-Traitance
+NA009	ABC Industrial	30096	US	 	Grossiste	Chimie	Amérique	NULL	NULL	Clients Etats-Unis
+ES012	Bicis y Juguetes SA	03001	ES	 	Professionnels	Vélo	Europe	NULL	NULL	Clients Inter-sites
+PT001	As Bicicletas do Norte	4440452	PT	 	Général	Vélo	Europe	NULL	NULL	Clients Portugais
+PT002	Bikes do Barreiro	2715311	PT	 	Général	Vélo	Europe	NULL	NULL	Clients Portugais
+PT003	Farmácia de Matosinhos	4450242	PT	 	Général	Pharmaceutique	Europe	NULL	NULL	Clients Portugais
+PT004	Distribuição Farmacêutica Oeiras	2780211	PT	 	Général	Pharmaceutique	Europe	NULL	NULL	Clients Portugais
+PT005	Supermercados Rosa Fresca	2910427	PT	 	Général	Agro	Europe	NULL	NULL	Clients Portugais
+PT006	Distribuidora Gomes & Barbosa	4820142	PT	 	Général	Agro	Europe	NULL	NULL	Clients Portugais
+PT007	Loja de Brinquedos da Leonor	1150014	PT	 	Général	Jouet	Europe	NULL	NULL	Clients Portugais
+AO001	Luanda BTT.	 	AO	 	Général	Vélo	Afrique	NULL	NULL	Clients Angola
+AO002	Ciclo Belas	 	AO	 	Général	Vélo	Afrique	NULL	NULL	Clients Angola
+AO003	Farmácia Saude e Higiene	 	AO	 	Général	Pharmaceutique	Afrique	NULL	NULL	Clients Angola
+AO004	Distribuição Angola Farma	 	AO	 	Général	Pharmaceutique	Afrique	NULL	NULL	Clients Angola
+AO005	Supermercados do Marçal	 	AO	 	Autre	Autres	Afrique	NULL	NULL	Clients Angola
+AO006	Distribuidora do Caxito	 	AO	 	Grossiste	Grossite	Afrique	NULL	NULL	Clients Angola
+AO007	Brinquedos da Tita	 	AO	 	Général	Jouet	Afrique	NULL	NULL	Clients Angola
+AO008	Angola Industrial	 	AO	 	Grossiste	Grossite	Afrique	NULL	NULL	Clients Angola
+AO151	Luanda Bikes	 	AO	 	Revendeur	Revendeur pro	Afrique	NULL	NULL	NULL
+AO152	SoftCenter - Informatica 	 	AO	 	Revendeur	Revendeur pro	Afrique	NULL	NULL	NULL
+ES002	Bike Norte	28029	ES	 	Général	Vélo	Europe	NULL	NULL	Clients Espagnols
+ES003	Laboratorios Rovi	28029	ES	 	Général	Pharmaceutique	Europe	NULL	NULL	Clients Espagnols
+AU001	Bike World Pty Ltd	2095	AU	 	Grossiste	Vélo	Australie Océanie	NULL	NULL	Clients Australiens
+ZA011	African Computers	8000	ZA	 	Revendeur	Vélo	Afrique	NULL	NULL	Clients Inter-sites
+NA030	Maple Supplies	L5T3B2	CA	 	Général	Chimie	Amérique	NULL	NULL	Clients Etats-Unis
+ES004	BioFarna	28029	ES	 	Général	Pharmaceutique	Europe	NULL	NULL	Clients Espagnols
+GB001	International Distributors Ltd	W1U 3QS	GB	GB101	Grossiste	Vélo	Europe	NULL	NULL	Clients Britanniques
+GB002	Amalgamate Supply plc	B16 8LA	GB	GB102	Revendeur	Informatique	Europe	NULL	NULL	Clients Britanniques
+GB003	Fun Times Stores (London) Ltd	W1U 7RT	GB	GB101	Professionnels	Vélo	Europe	NULL	NULL	Clients Britanniques
+GB004	Sports Leisure Limited	L1 1LQ	GB	GB102	Revendeur	Vélo	Europe	NULL	NULL	Clients Britanniques
+GB005	Johnson & Brothers Wholesale	NG1 2EH	GB	GB101	Grossiste	Chimie	Europe	NULL	NULL	Clients Britanniques
+GB006	Sysco Supply Systems Limited	LS11 8LU	GB	GB102	Professionnels	Informatique	Europe	NULL	NULL	Clients Britanniques
+GB007	Williams & Son Distribution Ltd	LE4 1DS	GB	GB101	Grossiste	Pharmaceutique	Europe	NULL	NULL	Clients Britanniques
+GB008	Aldermans PLC	G1 3JN	GB	 	NULL	NULL	NULL	NULL	NULL	Clients Britanniques
+GB009	ABC Industrial 	CF14 5LZ	GB	GB101	Autre	Agro	Europe	NULL	NULL	Clients Britanniques
+GB010	Dayton Marshall plc	BN1 1HH	GB	GB102	Professionnels	Chimie	Europe	NULL	NULL	Clients Britanniques
+GB011	Co 10 Intercompany	RG41 5RD	GB	GB103	Autre	Informatique	Europe	NULL	NULL	Clients Britanniques
+GB012	Bike & Toy Products (London) Ltd	RG41 5RD	GB	GB103	Autre	Vélo	Europe	NULL	NULL	Clients Britanniques
+AU002	Cycles R Us	3016	AU	 	Revendeur	Vélo	Australie Océanie	NULL	NULL	Clients Australiens
+AU003	JB Lee	2601	AU	 	Revendeur	Informatique	Australie Océanie	NULL	NULL	Clients Australiens
+AU004	Bing Hi Fi Pty Ltd	5007	AU	 	Autre	Informatique	Australie Océanie	NULL	NULL	Clients Australiens
+AU005	Happy Foods	6004	AU	 	Grossiste	Agro	Australie Océanie	NULL	NULL	Clients Australiens
+AU006	Food City Pty Ltd	4000	AU	 	Général	Agro	Australie Océanie	NULL	NULL	Clients Australiens
+AU007	Good Labs Pty Ltd	7000	AU	 	Grossiste	Chimie	Australie Océanie	NULL	NULL	Clients Australiens
+AU008	OZ Chemical	0800	AU	 	Général	Chimie	Australie Océanie	NULL	NULL	Clients Australiens
+AU009	Aussiepharm	2000	AU	 	Grossiste	Pharmaceutique	Australie Océanie	NULL	NULL	Clients Australiens
+AU010	Pharmate	3000	AU	 	Général	Pharmaceutique	Australie Océanie	NULL	NULL	Clients Australiens
+NZ001	Planet Bike	1010	NZ	 	Grossiste	Vélo	Australie Océanie	NULL	NULL	NULL
+NZ002	Bike Country	7220	NZ	 	Revendeur	Vélo	Australie Océanie	NULL	NULL	NULL
+NZ003	Smart Computers	6011	NZ	 	Revendeur	Informatique	Australie Océanie	NULL	NULL	NULL
+NZ004	Computer Land	8011	NZ	 	Professionnels	Informatique	Australie Océanie	NULL	NULL	NULL
+NZ005	Mini Foods	9016	NZ	 	Revendeur	Agro	Australie Océanie	NULL	NULL	NULL
+NZ006	Tasty Food Co	7010	NZ	 	Général	Agro	Australie Océanie	NULL	NULL	NULL
+NZ007	Happy Labs Corp	3216	NZ	 	Particuliers	Chimie	Australie Océanie	NULL	NULL	NULL
+NZ008	NZ Chemical	4130	NZ	 	Général	Chimie	Australie Océanie	NULL	NULL	NULL
+NZ009	Pharmakiwi	0632	NZ	 	Particuliers	Pharmaceutique	Australie Océanie	NULL	NULL	NULL
+NZ010	NZ Global Pharma	1023	NZ	 	Général	Pharmaceutique	Australie Océanie	NULL	NULL	NULL
+ZA002	Bearings Africa	1460	ZA	 	Revendeur	Vélo	Afrique	NULL	NULL	Clients Sud-Africains
+ZA004	Bell Equipment Africa	3900	ZA	 	Revendeur	Vélo	Afrique	NULL	NULL	Clients Sud-Africains
+ZA006	Just Aluminium Limited	 	ZM	 	Revendeur	Vélo	Afrique	NULL	NULL	Clients Sud-Africains
+DE001	1 2 3 Rad GmbH	28201	DE	DE251	NULL	NULL	NULL	NULL	NULL	Clients Allemands
+DE002	Bike & Outdoor Company GmbH	22047	DE	DE251	Revendeur	Vélo	Europe	NULL	NULL	Clients Allemands
+DE003	Cyberport GmbH	60388	DE	 	Professionnels	Informatique	Europe	NULL	NULL	Clients Allemands
+DE004	Software Services	44141	DE	 	Professionnels	Informatique	Europe	NULL	NULL	Clients Allemands
+DE005	Real Group GmbH	41065	DE	 	Professionnels	Agro	Europe	NULL	NULL	Clients Allemands
+DE006	Kaufland Warenhandel	74172	DE	 	Grossiste	Agro	Europe	NULL	NULL	Clients Allemands
+DE007	Bayer AG	51379	DE	 	Professionnels	Chimie	Europe	NULL	NULL	Clients Allemands
+DE008	BCD Chemie GmbH	21079	DE	 	Professionnels	Autres	Europe	NULL	NULL	Clients Allemands
+DE009	Celesio Pharma AG	70376	DE	 	Professionnels	Pharmaceutique	Europe	NULL	NULL	Clients Allemands
+DE010	Helios Kliniken GmbH	10117	DE	 	Professionnels	Revendeur	Europe	NULL	NULL	Clients Allemands
+ES005	Alimerca	28029	ES	 	Général	Agro	Europe	NULL	NULL	Clients Espagnols
+ES006	Alcampo	28029	ES	 	Revendeur	Revendeur pro	Europe	NULL	NULL	Clients Espagnols
+ES007	Server Sistemas	28029	ES	 	Général	Informatique	Europe	NULL	NULL	Clients Espagnols
+ES008	Comunicación	28029	ES	 	Général	Informatique	Europe	NULL	NULL	Clients Espagnols
+ES009	Industrias Químicas	28029	ES	 	Général	Chimie	Europe	NULL	NULL	Clients Espagnols
+ES010	Químicas Dintel	28029	ES	 	Général	Chimie	Europe	NULL	NULL	Clients Espagnols
+ZA008	Choopies Hyper	 	BW	 	Revendeur	Vélo	Afrique	NULL	NULL	Clients Sud-Africains
+ZA010	Namibia Dairy Farm	 	NA	 	Revendeur	Vélo	Afrique	NULL	NULL	Clients Sud-Africains
+ES021	Alimentación y Bebidas	46021	ES	 	Utilisateur final	Agro	Europe	NULL	NULL	Clients Inter-sites
+ES151	Bicis Onlines	46002	ES	 	Revendeur	Vélo	Europe	NULL	NULL	NULL
+ES152	Info Computer	08003	ES	 	Revendeur	Informatique	Europe	NULL	NULL	NULL
+ZA001	Best Line Mininng Supplies	 	CD	 	Revendeur	Vélo	Afrique	NULL	NULL	Clients Sud-Africains
+ZA003	Zimbabwe Leaf Tobacco	 	ZW	 	Grossiste	Informatique	Afrique	NULL	NULL	Clients Sud-Africains
+ZA005	Malawi Fertilizer	 	MW	 	Grossiste	Agro	Afrique	NULL	NULL	Clients Sud-Africains
+ZA007	Ericsson	 	MZ	 	Général	Chimie	Afrique	NULL	NULL	Clients Sud-Africains
+ZA009	Juliand Bearings Ltd	 	NG	 	Autre	Pharmaceutique	Afrique	NULL	NULL	Clients Sud-Africains
+BE002	Transport bvba	1000	BE	 	NULL	NULL	NULL	NULL	NULL	Clients Belges
+BE003	kreglinger	1000	BE	 	NULL	NULL	NULL	NULL	NULL	Clients Belges
+BE004	Technieks bvba	1000	BE	 	NULL	NULL	NULL	NULL	NULL	Clients Belges
+BE005	Vervoer Bvba	1000	BE	 	NULL	NULL	NULL	NULL	NULL	Clients Belges
+PT052	Ciclo Componentes	4700690	PT	 	NULL	NULL	NULL	NULL	NULL	Sous-Traitance
+SPA01FA	ACME Company	08174	ES	 	NULL	NULL	NULL	NULL	NULL	Clients Espagnols
+BE001	BE Concept	1000	BE	 	NULL	NULL	NULL	NULL	NULL	Clients Belges
+PL011	Komptech S.A.	00001	PL	 	NULL	NULL	NULL	NULL	NULL	Clients Polonais
+PL012	Rowery S.A.	61001	PL	 	NULL	NULL	NULL	NULL	NULL	Clients Polonais
+DE032	Public Data GmbH	 	DE	 	NULL	NULL	NULL	NULL	NULL	Clients Allemands
+DE011	Computer & Zubehör GmbH	81825	DE	 	NULL	NULL	NULL	NULL	NULL	Clients Inter-sites
+FR022	Pharmatech SA	69001	FR	 	NULL	NULL	NULL	NULL	NULL	Clients Inter-sites
+FR021	Agrotech SA	69001	FR	 	NULL	NULL	NULL	NULL	NULL	Clients Inter-sites
+FR014	Tradefin	75011	FR	 	NULL	NULL	NULL	NULL	NULL	Clients Français
+PT021	Agro Natura	4100247	PT	 	Professionnels	Agro	Europe	NULL	NULL	Clients Inter-sites
+GB014	Mitsu Manufacturing 	PL1 1QX	GB	GB102	NULL	NULL	NULL	NULL	NULL	Clients Britanniques
+FR015	MAROTTI	37000	FR	 	Utilisateur final	Informatique	Europe	NULL	NULL	Prospects
+AO021	Agro Alimentar do Namibe	 	AO	 	Général	Agro	Afrique	NULL	NULL	Clients Inter-sites
+FR016	FAR DISTRIBUTION	47000	FR	 	Professionnels	Revendeur	Europe	NULL	NULL	Prospects
+FR017	3P SA	57000	FR	 	Professionnels	Informatique	Europe	NULL	NULL	Prospects
+GB151	Bike Online	B5 6HX	GB	GB101	Revendeur	Vélo	Europe	NULL	NULL	NULL
+GB152	IT Supply	W1F 0SW	GB	GB102	Revendeur	Informatique	Europe	NULL	NULL	NULL
+CH001	Ruetlischwur AG	6441	CH	 	NULL	NULL	NULL	NULL	NULL	NULL
+GH018	Smart Computers	 	GH	 	NULL	NULL	NULL	NULL	NULL	Clients Export
+ZA012	African Bikes	 	ZA	 	NULL	NULL	NULL	NULL	NULL	Clients Inter-sites
+ZA021	Food Products	 	ZA	 	NULL	NULL	NULL	NULL	NULL	Clients Inter-sites
+ZA022	Pharmaceutical Products	 	ZA	 	NULL	NULL	NULL	NULL	NULL	Clients Inter-sites
+ZA023	Chemical Products	 	ZA	 	NULL	NULL	NULL	NULL	NULL	Clients Inter-sites
+PL001	Handel Zagraniczny S.A.	05500	PL	 	Grossiste	Grossite	Europe	NULL	NULL	Clients Polonais
+PL002	Dystrybutor Sp. z o.o.	54000	PL	 	Grossiste	Grossite	Europe	NULL	NULL	Clients Polonais
+PL003	Fanpol Sp. z o.o.	30000	PL	 	Grossiste	Vélo	Europe	NULL	NULL	Clients Polonais
+AE001	Al Rostamani Communications 	 	AE	 	NULL	NULL	Afrique	NULL	NULL	United Arab Emirates
+AE011	Computer Products	 	AE	 	NULL	NULL	Afrique	NULL	NULL	Clients Inter-sites
+AE002	Al Zahra Computers	 	AE	 	NULL	NULL	Afrique	NULL	NULL	United Arab Emirates
+AE003	Cosmos Computer Co LLC	 	AE	 	NULL	NULL	Afrique	NULL	NULL	United Arab Emirates
+TESTSJDC	 	31000	FR	 	NULL	NULL	NULL	NULL	NULL	Clients Français
